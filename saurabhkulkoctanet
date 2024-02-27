@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nova University</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: antiquewhite;
+        }
+
+        header {
+            background-color: green;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            background-color: lightblue;
+        }
+
+        nav {
+            background-color: lightblue;
+            padding: 10px;
+        }
+
+        section {
+            padding: 20px;
+           
+        }
+
+        footer {
+            background-color: lightblue;
+            padding: 10px;
+            text-align: center;
+            position: variable;
+            bottom: 0;
+            width: 100%;
+        }
+
+        button {
+            background-color: green;
+            color: white;
+            padding: 10px;
+            margin: 5px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <button>Useful Links</button>
+            <button>Website Feedback</button>
+        </nav>
+        <h1>Welcome to Nova University</h1>
+        
+        
+        <p>Our vibrant academic community awaits you!</p>
+        <img src="file:///C:/Users/Admin/Desktop/Your%20College%20Landing%20Page_files/images">    
+    </header>
+
+   
+
+    <section id="home">
+        <h2>Home</h2>
+        <img src="file:///C:/Users/Admin/Downloads/Your%20College%20Landing%20Page_files/20150610_seven_oaks_463-16-x-24.jpg">
+    </section>
+
+    <section id="about-us">
+        <h2>About Us</h2>
+        <p>At Nova University, we take immense pride in being more than just an educational institution; we are a premium institute dedicated to cultivating the leaders and innovators of tomorrow. Our commitment to excellence permeates every facet of our academic offerings, creating an unparalleled educational experience.</p>
+        <img src="file:///C:/Users/Admin/Desktop/Your%20College%20Landing%20Page_files/medium-shot-colleagues-back-office_23-2149097945.jpg"
+    </section>
+
+    <section id="admissions">
+        <h2>Admissions</h2>
+        <p>Explore the opportunities and apply to join our esteemed institution. We are dedicated to fostering excellence in education.</p>
+        <p>Click here to know more about admissions.</p>
+        <button>Know more</button>
+    </section>
+
+    <section id="programs">
+        <h2>Programs</h2>
+        <p>Discover our diverse range of academic programs designed to prepare students for success in their chosen fields.</p>
+        <ul>
+            <li>Inc</li>
+            <li>IEEE</li>
+            <li>CSI</li>
+        </ul>
+    </section>
+
+    <section id="contact-us">
+        <h2>Contact Us</h2>
+        <p>Phone:12334456789</p>
+        <p>Email: saassa@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Nova University</p>
+    </footer>
+</body>
+
+</html>
